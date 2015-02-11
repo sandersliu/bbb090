@@ -2,6 +2,7 @@
 #versison of container: 0.5.1
 FROM sandersliu/ubuntu1410
 MAINTAINER sanders liu "sandersliu@hotmail.com"
+
 # Set correct environment variables.
 ENV HOME /root
 #add repository and update the container
